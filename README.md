@@ -1,4 +1,4 @@
-# Loan Calulator : Shiny Application and Reproducible Pitch
+# Loan Calculator : Shiny Application and Reproducible Pitch
 
 This application is available at https://mfzr.shinyapps.io/loancalculator/
 
